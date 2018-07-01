@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Self.Reset
 header-img: img/home-bg.png
 email: dlhopkins2@gmail.com
 copyright_name: davidlhopkins
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Reflections On How I Learned to Love to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  davidlhopkins
