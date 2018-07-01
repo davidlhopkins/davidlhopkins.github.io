@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rediscovering Self"
-date:       2018-07-01 06:05:37 +0000
+date:       2018-07-01 02:05:38 -0400
 permalink:  rediscovering_self
 ---
 
